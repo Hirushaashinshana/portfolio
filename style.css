@@ -369,12 +369,12 @@ section .title::after{
     width: 60%;
 }
 .skills-content .right .js::before{
-    width: 80%;
+    width: 40%;
 }
-.skills-content .right .php::before{
-    width: 50%;
+.skills-content .right .python::before{
+    width: 95%;
 }
-.skills-content .right .mysql::before{
+.skills-content .right .tensorflow::before{
     width: 70%;
 }
 
